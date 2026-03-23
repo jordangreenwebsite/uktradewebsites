@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://uktradewebsites.co.uk/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://uktradewebsites.co.uk/</loc>
 		<lastmod>2026-03-23T02:47:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/thank-you/</loc>
+		<loc>https://uktradewebsites.co.uk/thank-you/</loc>
 		<lastmod>2026-03-19T03:42:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/privacy-policy/</loc>
+		<loc>https://uktradewebsites.co.uk/privacy-policy/</loc>
 		<lastmod>2026-03-19T03:42:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/our-process/</loc>
+		<loc>https://uktradewebsites.co.uk/our-process/</loc>
 		<lastmod>2026-03-19T03:42:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/contact-us/</loc>
+		<loc>https://uktradewebsites.co.uk/contact-us/</loc>
 		<lastmod>2026-03-19T03:41:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/coming-soon/</loc>
+		<loc>https://uktradewebsites.co.uk/coming-soon/</loc>
 		<lastmod>2026-03-19T03:41:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about-us/</loc>
+		<loc>https://uktradewebsites.co.uk/about-us/</loc>
 		<lastmod>2026-03-19T03:41:13+00:00</lastmod>
 	</url>
 </urlset>
