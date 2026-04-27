@@ -212,10 +212,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     
     
-    
+              
                     
     
-    <a class="breakdance-link bde-icon-icon breakdance-icon-atom" href="#" target="_self" data-type="action" data-action='{"type":"popup","popupOptions":{"popupId":"178","popupAction":"open"}}'>
+    <a class="breakdance-link bde-icon-icon breakdance-icon-atom" href="#" target="_self" data-type="action" id="burger" data-action='{"type":"popup","popupOptions":{"popupId":"178","popupAction":"open"}}'>
 
     
                     <svg xmlns="http://www.w3.org/2000/svg" id="icon-menu" viewbox="0 0 32 32">
@@ -371,7 +371,7 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 <script>document.addEventListener('DOMContentLoaded', function(){ 
 
  }) </script>
-<script>document.addEventListener('DOMContentLoaded', function(){ new BreakdancePopup(178, {"onlyShowOnce":false,"avoidMultiple":false,"limitSession":null,"limitPageLoad":null,"limitForever":null,"triggers":[{"slug":"click","options":{"clickType":"selector","selector":"#burger"}}],"breakpointConditions":[]}); }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ new BreakdancePopup(178, {"onlyShowOnce":false,"avoidMultiple":false,"limitSession":null,"limitPageLoad":null,"limitForever":null,"triggers":[{"slug":"click","options":{"clickType":"selector","selector":"burger"}}],"breakpointConditions":[{"operand":"is one of","breakpoints":["breakpoint_phone_portrait","breakpoint_phone_landscape","breakpoint_tablet_portrait","breakpoint_tablet_landscape"]}]}); }) </script>
 <script>document.addEventListener('DOMContentLoaded', function(){ 
 if (window.breakdancePopupInstances) {
   const popupInstance = window.breakdancePopupInstances[178] ?? null;
